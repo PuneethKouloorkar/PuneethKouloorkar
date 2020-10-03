@@ -13,6 +13,4 @@ I am a Computational Sciences master's student at Freie Universität Berlin curr
 | Recurrent Neural Network | Python (NumPy, PyTorch and Matplotlib libraries)     |  Labelling [0....4] sequences of genetic code where each sequence is a string of of letters ['A', 'C', 'G', 'T'] |
 ______________________________
 
-🔭 I’m currently learning Medical Image Processing, Monte Carlo Methods in ML & AI and Numberics of ODEs.  
-👯 I’m looking to collaborate in understanding the use and scope of AI in healthcare industry.  
 ⚡ Fun fact: All languages travel at the speed of sound but not the sign language. It travels at the speed of light!  
