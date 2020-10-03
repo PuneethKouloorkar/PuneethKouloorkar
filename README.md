@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Linkedin](https://www.linkedin.com/in/puneethkouloorkar/) | [Goodreads](www.goodreads.com/puneethkouloorkar)
+[Linkedin](https://www.linkedin.com/in/puneethkouloorkar/) | [Goodreads](https://www.goodreads.com/puneethkouloorkar)
 
 I am a Computational sciences master's student at Freie Universität Berlin currently specializing in Molecular sciences and Machine Learning.
 
