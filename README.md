@@ -17,5 +17,3 @@ I am a Computational Sciences master's student at Freie Universität Berlin curr
 ______________________________
 
 ⚡ Fun fact: All languages travel at the speed of sound but not the sign language. It travels at the speed of light!  
-
-![](https://komarev.com/ghpvc/?username=PuneethKouloorkar&color=red)
