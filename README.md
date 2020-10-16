@@ -12,6 +12,7 @@ I am a Computational Sciences master's student at Freie Universität Berlin curr
 | 1. Logisteic Regression from scratch and sklearn| Python (NumPy, Matplotlib and Sklearn libraries)  | Comparing the performance of logistic regression built from scratch and using built-in function from sklearn |
 | 2. Neural Network from scratch| Python (NumPy and Matplotlib libraries) | Building the neural network from scratch and comparing it's performance with logistic regression (from sklearn)|
 | 3. Deep Neural Network from scratch | Python (NumPy and Matplotlib libraries) | Comparing performance of a 4-layer network with a 2-layer network|
+| 4. Neural Network in PyTorch | Python (NumPy, torch and Matplotlib libraries) | A 2 layer neural netoek to recognize handwritten digits |
 | Convolutional Neural Network| Python (NumPy, PyTorch and Matplotlib libraries)      | 3-class classification (dogs, cats and frogs) of images of size 32 x 32 x 3  |
 | Recurrent Neural Network | Python (NumPy, PyTorch and Matplotlib libraries)     |  Labelling [0....4] sequences of genetic code where each sequence is a string of of letters ['A', 'C', 'G', 'T'] |
 ______________________________
