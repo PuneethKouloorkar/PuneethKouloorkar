@@ -1,9 +1,17 @@
-## About me  
+## About Me  
 
 I am a Computational Sciences master's student at Freie Universität Berlin currently specializing in Molecular Sciences and Machine Learning.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/puneethkouloorkar/)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-black)](https://www.goodreads.com/puneethkouloorkar)
+
+### GitHub Stats
+<a href="https://github.com/PuneethKouloorkar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethKouloorkar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Programming Language Stats" />
+</a>
+<a href="https://github.com/PuneethKouloorkar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PuneethKouloorkar&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+</a>
 
 ## Github Repositories
 
