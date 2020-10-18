@@ -1,9 +1,9 @@
 ## About me  
 
+I am a Computational Sciences master's student at Freie Universität Berlin currently specializing in Molecular Sciences and Machine Learning.
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/puneethkouloorkar/)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-black)](https://www.goodreads.com/puneethkouloorkar)
-
-I am a Computational Sciences master's student at Freie Universität Berlin currently specializing in Molecular Sciences and Machine Learning.
 
 ## Github Repositories
 
