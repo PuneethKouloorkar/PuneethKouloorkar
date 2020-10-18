@@ -1,8 +1,7 @@
-[<img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2kWd9w1PXcuLRPozyr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-2kWd9w1PXcuLRPozyr">via GIPHY</a></p>" alt="Hello" title="Hello"/>](https://akshayjoshi.tech)
-
 ## About me  
 
-[Linkedin](https://www.linkedin.com/in/puneethkouloorkar/) | [Goodreads](https://www.goodreads.com/puneethkouloorkar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/puneethkouloorkar/)
+[![Goodreads](https://img.shields.io/badge/-Goodreads-black)](https://www.goodreads.com/puneethkouloorkar)
 
 I am a Computational Sciences master's student at Freie Universität Berlin currently specializing in Molecular Sciences and Machine Learning.
 
