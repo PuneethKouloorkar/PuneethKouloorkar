@@ -1,4 +1,4 @@
-### About me:  
+## About me  
 
 [Linkedin](https://www.linkedin.com/in/puneethkouloorkar/) | [Goodreads](https://www.goodreads.com/puneethkouloorkar)
 
