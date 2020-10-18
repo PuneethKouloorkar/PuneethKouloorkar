@@ -4,6 +4,8 @@
 
 I am a Computational Sciences master's student at Freie Universität Berlin currently specializing in Molecular Sciences and Machine Learning.
 
+## Github Repositories
+
 | Repos         | Technology Stack  | About  |
 | :-------------: |:-------------:| :-----:|
 | [Molecular Simulation](https://github.com/PuneethKouloorkar/Molecular-Simulation)      | Python (NumPy and Matplotlib libraries) | Simulation of harmonic chain and Lennard-Jones fluid using Velocity Verlet and BAOAB scheme of Langevin dynamics employing minimum image convention and periodic boundary conditions  |
