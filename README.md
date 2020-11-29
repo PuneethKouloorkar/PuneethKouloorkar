@@ -10,7 +10,6 @@ I am a Computational Sciences master's student at Freie Universität Berlin curr
 
 | Repos         | Technology Stack  | About  |
 | :-------------: |:-------------:| :-----:|
-| [Molecular Simulation](https://github.com/PuneethKouloorkar/Molecular-Simulation)      | Python (NumPy and Matplotlib libraries) | Simulation of harmonic chain and Lennard-Jones fluid using Velocity Verlet and BAOAB scheme of Langevin dynamics employing minimum image convention and periodic boundary conditions  |
 | [How to Predict Epidemics?](https://github.com/PuneethKouloorkar/How-to-predict-Epidemics)      | Python (NumPy and Matplotlib libraries)     |  Using percolation theory, finding the threshold of number of people infected in a given small-world network to declare it as an epidemic |
 | [SPC Water Model](https://github.com/PuneethKouloorkar/SPC-Water-Model) | Python (NumPy and Matplotlib libraries) and Visual Molecular Dynamics      | Simulating water molecules employing flexible simple point-charge water model  |
 | [1. Logistic Regression from scratch and sklearn](https://github.com/PuneethKouloorkar/1.-Logistic-Regression-from-scratch-and-sklearn-)| Python (NumPy, Matplotlib and Sklearn libraries)  | Comparing the performance of logistic regression built from scratch and using built-in function from sklearn |
