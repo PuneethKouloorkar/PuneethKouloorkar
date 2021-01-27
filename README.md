@@ -3,7 +3,7 @@
 I am a Computational Sciences master's student at Freie Universität Berlin specializing in Molecular Sciences.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/puneethkouloorkar/)
-[![CV](https://img.shields.io/badge/-CV-blue)](https://drive.google.com/file/d/1Cm_zua5HazGnX83DOrwO39aYe4rWRYkB/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV-blue)](https://drive.google.com/drive/u/1/folders/1aM8AW_81TYqVZ6eZLbICqYjOncTKqbhf)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-red)](https://www.goodreads.com/puneethkouloorkar)
 
 ## Github Repositories
