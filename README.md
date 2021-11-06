@@ -23,4 +23,5 @@ I am a Computational Sciences master's student at Freie Universität Berlin spec
 ______________________________
 
 ⚡ Fun fact: All languages travel at the speed of sound but not the sign language. It travels at the speed of light!
-⚡ Truth: You are not scared of being alone in the dark, you are scared of being not alone in the dark.
+
+⚡ Truth: You are not scared of being alone in the dark, you are scared of not being alone in the dark.
