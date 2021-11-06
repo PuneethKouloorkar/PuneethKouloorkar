@@ -22,4 +22,5 @@ I am a Computational Sciences master's student at Freie Universität Berlin spec
 | [Recurrent Neural Network](https://github.com/PuneethKouloorkar/Recurrent-NN) | Python (NumPy, PyTorch and Matplotlib libraries)     |  Labelling [0....4] sequences of genetic code where each sequence is a string of of letters ['A', 'C', 'G', 'T'] |
 ______________________________
 
-⚡ Fun fact: All languages travel at the speed of sound but not the sign language. It travels at the speed of light!  
+⚡ Fun fact: All languages travel at the speed of sound but not the sign language. It travels at the speed of light!
+⚡ Truth: You are not scared of being alone in the dark, you are scared of being not alone in the dark.
